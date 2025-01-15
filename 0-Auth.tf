@@ -13,7 +13,7 @@ terraform {
     organization = "KingOfZamunda"
 
     workspaces {
-      name = "McDowells"
+      name = "YoMommaBlackAseDevSecOps"
     }
   }
 }
