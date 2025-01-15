@@ -14,7 +14,7 @@ terraform {
     organization = "KingOfZamunda"
 
     workspaces {
-      name = "learn-terraform-github-actions"
+      name = "YoMommaBlackAseDevSecOps"
     }
   }
 
